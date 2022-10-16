@@ -1,0 +1,14 @@
+[
+    {
+        "name": "user1",
+        "chatid": 192837465
+    },
+    {
+        "name": "user2",
+        "chatid": 123456789
+    },
+    {
+        "name": "user3",
+        "chatid": 987654321
+    }
+]
