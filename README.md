@@ -9,7 +9,7 @@
 * At the end of the order delete the chat menu
 
 
-###W hat you need
+### What do you need?
 * Telegram account
 * ChatID from the customers that are going to be allowed to use the bot.
 * Server with a public IP with the following installed
